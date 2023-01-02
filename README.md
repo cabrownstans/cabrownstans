@@ -14,6 +14,7 @@
 
 
 linkedin: https://www.linkedin.com/in/china-stansell-9740a21a8/
+medium: https://medium.com/@cabrownstans
 
 <!--
 
